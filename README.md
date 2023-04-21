@@ -2,7 +2,7 @@
 
 ## 🌞 Weather App (openweathermap).
 
-## 🚀 Capabilities
+## Description
 - **An application for obtaining weather data for a given city.**
 - **Implemented the ability to search for a city to display the weather.**
 
@@ -14,7 +14,11 @@
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/Weather/blob/main/screen/screen5.png">
 <p>
 
-## 🛠️ Main technologies
+## Capabilities
+
+## Technologies
  - **JSON**
  - **Alamofire**
  - **API**
+
+## Installing and launching 
