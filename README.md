@@ -34,13 +34,5 @@
 ```
 
 ## Installing and launching 
-- You will need to install the framework
-    - go to the application folder in the terminal
-     ```
-   cd [location of the project folder]
-    ```
-    - install pods
-    ```
-   pod install
-    ```
-    - Project startup file: .xcworkspace
+- Download the project archive
+- Project startup file: .xcworkspace
