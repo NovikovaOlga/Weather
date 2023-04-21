@@ -27,7 +27,6 @@
  - **JSON**
  - **Networking**
  - **Alamofire**
- - ****
  
 ## Libraries
  ```
