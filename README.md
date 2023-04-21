@@ -3,8 +3,7 @@
 ## 🌞 Weather App (openweathermap).
 
 ## Description
-- **An application for obtaining weather data for a given city.**
-- **Implemented the ability to search for a city to display the weather.**
+<p> Getting weather data (real API). </p>
 
 <p>
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/Weather/screen1.png">
@@ -15,6 +14,13 @@
 <p>
 
 ## Capabilities
+ 
+- В приложении доступны три режима работы:
+    - получение данных о погоде в Москве 
+    - получение данных о погоде в Москве (Alamofire)
+    - получение данных о погоде в любом городе (через строку поиска)
+
+#### Получение данных о погоде происходит с портала: https://api.openweathermap.org
 
 ## Technologies
  - **JSON**
