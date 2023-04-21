@@ -15,16 +15,33 @@
 
 ## Capabilities
  
-- В приложении доступны три режима работы:
-    - получение данных о погоде в Москве 
-    - получение данных о погоде в Москве (Alamofire)
-    - получение данных о погоде в любом городе (через строку поиска)
+- There are three modes of operation available in the application:
+    - getting weather data in Moscow 
+    - getting weather data in Moscow (Alamofire)
+    - getting weather data in any city (via the search bar)
 
-#### Получение данных о погоде происходит с портала: https://api.openweathermap.org
+#### Weather data is received from the portal: https://api.openweathermap.org
 
 ## Technologies
+ - **REST ARI**
  - **JSON**
+ - **Networking**
  - **Alamofire**
- - **API**
+ - ****
+ 
+## Libraries
+ ```
+ pod 'Alamofire'
+```
 
 ## Installing and launching 
+- You will need to install the framework
+    - go to the application folder in the terminal
+     ```
+   cd [location of the project folder]
+    ```
+    - install pods
+    ```
+   pod install
+    ```
+    - Project startup file: .xcworkspace
